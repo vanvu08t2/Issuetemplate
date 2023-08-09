@@ -2,4 +2,4 @@ blank_issues_enabled: true
 contact_links:
   - name: Issue
     about: Issue template
-    url: https://github.com/vanvu08t2/Issuetemplate/issues/new?template=issue.md&projects=/users/vanvu08t2/projects/4&labels=enhancement
+    url: https://github.com/vanvu08t2/Issuetemplate/issues/new?template=issue.md&projects=users/vanvu08t2/projects/4&labels=enhancement
