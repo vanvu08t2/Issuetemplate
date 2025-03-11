@@ -1,6 +1,6 @@
 ---
 name: '[実装] xxx'
-projects: ['vanvu08t2/4']
+projects: ['vanvu08t2/projects/4']
 ---
 
 ## TODO
