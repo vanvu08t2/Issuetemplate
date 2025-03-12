@@ -7,6 +7,14 @@ assignees: ''
 
 ---
 
+name: Bug Report
+description: File a bug report.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+projects: ["vanvu08t2/4"]
+assignees:
+  - octocat
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
